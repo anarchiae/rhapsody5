@@ -38,3 +38,5 @@ pixels.group_by_group(colors = [255, 255, 255], interval = 1, direction = "up", 
 
 pixels.rainbow(0.001, 180, "ligne_1")
 #pixels.off()
+
+print("michel bougenat")
